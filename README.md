@@ -108,12 +108,9 @@ python -m spacy download en_core_web_sm
 
 Clone the repository:
 
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/syzanakryeziu/Sentiment-Analysis.git
 
 
 Navigate to project directory:
-
-cd your-repo
-
 
 Open the project in VS Code or Jupyter Notebook.
