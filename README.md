@@ -87,3 +87,33 @@ TF-IDF + Logistic Regression: fast, interpretable, achieved higher recall and ac
 TF-IDF + SVM: slightly slower, performed similarly in accuracy but required more computation
 
 Conclusion: Logistic Regression performed slightly better in terms of speed and accuracy for this dataset.
+
+**Dependencies**
+
+Before running this project, make sure you have the following installed:
+
+Python 3.8+
+
+pip (Python package manager)
+
+Libraries:
+
+pip install pandas numpy matplotlib seaborn nltk spacy datasets scikit-learn sentence-transformers
+
+Download SpaCy English model:
+
+python -m spacy download en_core_web_sm
+
+**Installing**
+
+Clone the repository:
+
+git clone https://github.com/yourusername/your-repo.git
+
+
+Navigate to project directory:
+
+cd your-repo
+
+
+Open the project in VS Code or Jupyter Notebook.
